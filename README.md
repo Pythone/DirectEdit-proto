@@ -7,4 +7,4 @@ DirectEdit is a simple Python Text editor and it has some interesting features
 type the incorrect option in and you will add 404 bytes to a file
 Do what the question asks
 ##  interesting feature(s)
-- disk space punishment(if you made an error, useless data will be added
+- disk space punishment(if you made an error, useless data will be added)
