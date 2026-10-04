@@ -1,3 +1,5 @@
+## Archive
+This is my first and only program uploaded here. I will keep it safe
 # DirectEdit-proto
 DirectEdit is a simple Python Text editor and it has some interesting features
 ## how to use
